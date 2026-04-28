@@ -124,3 +124,6 @@ MIT
 
 ## Deployment
 Live at: https://glittering-cajeta-e320d7.netlify.app/
+
+## College
+KL University - FSAD Project 2024
